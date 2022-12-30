@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Pacifico&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+}
+.sidebar{
+    background-color: red;
+    width: 20vw;
+    font-family: 'Andika', sans-serif;
+font-family: 'Pacifico', cursive;
+
+}
+
+.main{
+    background-color: yellow;
+    width: 80vw;
+}
